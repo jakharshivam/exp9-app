@@ -1,0 +1,1 @@
+{"name":"exp9-app","version":"1.0.0","main":"app.js","dependencies":{"express":"^4.21.2","helmet":"^8.0.0"}}
